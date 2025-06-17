@@ -1,4 +1,4 @@
-# bitassets-whitepaper
+# bitassets whitepaper
 
 BitAssets - A Digital Assets
 Sidechain
